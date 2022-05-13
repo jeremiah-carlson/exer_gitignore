@@ -4,7 +4,7 @@ node_modules/
 z*
 
  # All env files
- .env
+.env
  
  # artifacts folder
 /artifacts/
